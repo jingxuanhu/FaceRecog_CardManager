@@ -1,0 +1,13 @@
+{
+  "userId": "25GPB79KO2NEPIRAPIHL21ca0wcG4FhZxngQNDUCRu8p79YD4",
+  "password": "uBUg6dy8S11",
+  "cert": "{put the path to cert.pem under the security folder here}",
+  "key": "{put the path to the private key here}",
+  "vctcTestPan" : "{put your pan number from test data under consumer rules api -> register a card here}",
+  "mlcIssuerId" : "{put your enrollments api issuer id here}",
+  "mlcDeviceId" : "{put your enrollments api device id here}",
+  "mlcClientMessageID" : "{put your enrollments api client message id here}",
+  "mlcPrimaryAccountNumber" : "{put your enrollments api primary account number here}",
+  "mlcMessageId" : "{put your locations api message id here}",
+  "visaUrl": "https://sandbox.api.visa.com/"
+}
